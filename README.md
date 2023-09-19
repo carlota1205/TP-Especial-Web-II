@@ -14,4 +14,4 @@ Descripcion:
              poder filtrar dichas busquedas segun la necesidad del usuario.
 
 
-![JPG.Diagrama de relaciones](https://carlota1205/TP-Especial-Web-II.git/DER.jpg)
+![JPG.Diagrama de relaciones](https://github.com/carlota1205/TP-Especial-Web-II.git/DER.jpg)
