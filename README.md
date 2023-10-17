@@ -1,4 +1,6 @@
 # TP-Especial-Web-II
+USUARIO: user
+CONTRSEÑA: admin
 Integrantes del equipo: - Mariano Vásquez. - Carlota Loustau.
 
 Temática del TP: Aplicación web de busqueda de libros.
